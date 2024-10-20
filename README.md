@@ -7,6 +7,6 @@ Airbnb has seen a significant decline in revenue over the past few months. With 
 -  This project emphasizes storytelling through data, uncovering insights to guide Airbnb's decisions in key areas.
 
 ## Skills Applied:
-Data Cleaning and Preparation (Python)
-Data Visualization and Storytelling (Tableau and Excel)
+-  Data Cleaning and Preparation (Python)
+-  Data Visualization and Storytelling (Tableau and Excel)
 
